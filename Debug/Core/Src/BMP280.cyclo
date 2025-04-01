@@ -1,0 +1,8 @@
+../Core/Src/BMP280.c:8:10:BME_280_Compensation	1
+../Core/Src/BMP280.c:18:7:compensate_temperature	1
+../Core/Src/BMP280.c:27:7:compensate_pressure	2
+../Core/Src/BMP280.c:47:8:compensate_pressure_v2	2
+../Core/Src/BMP280.c:70:7:compensate_humidity	1
+../Core/Src/BMP280.c:79:6:read_calibration_data	1
+../Core/Src/BMP280.c:113:9:read_ADC_T	1
+../Core/Src/BMP280.c:126:9:read_ADC_P	1
